@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 53, 215);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    color: rgb(0, 128, 255);
+    font-size: 36px;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(1, 204, 1);
+    font-size: 24px;
+    font-weight: bold;
+}
